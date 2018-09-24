@@ -1,0 +1,7 @@
+C:\Users\chris\source\repos\Alpha2\Alpha2\obj\Debug\Alpha2.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\Alpha2\Alpha2\obj\Debug\Alpha2.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\Alpha2\Alpha2\bin\Debug\Alpha2.exe.config
+C:\Users\chris\source\repos\Alpha2\Alpha2\bin\Debug\Alpha2.exe
+C:\Users\chris\source\repos\Alpha2\Alpha2\bin\Debug\Alpha2.pdb
+C:\Users\chris\source\repos\Alpha2\Alpha2\obj\Debug\Alpha2.exe
+C:\Users\chris\source\repos\Alpha2\Alpha2\obj\Debug\Alpha2.pdb
